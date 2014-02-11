@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project: Euler</string>
+    <string name="problem_number">Problem Number {number}</string>
+    <string name="description">Description</string>
+    <string name="results">Result</string>
+
+    <string name="multiple_of_3_and_5_summary">
+        Multiples of 3 and 5
+    </string>
+    <string name="multiple_of_3_and_5_description">
+        If we list all the natural numbers below 10 that are multiples of 3 or 5, we get 3, 5, 6 and 9. The sum of these multiples is 23.
+        \n\nEnter a number to find the sum of all multiples of 3 and 5 that are less than it.
+    </string>
+
+    <string name="largest_prime_factor_summary">
+        Largest Prime Factor
+    </string>
+    <string name="largest_prime_factor_description">
+        The prime factors of 13195 are 5, 7, 13 and 29.
+        \n\nEnter a number to find its largest prime factor.
+    </string>
+    <string name="largest_palindrome_product_summary">
+        Largest Palindrome Product
+    </string>
+    <string name="largest_palindrome_product_description">
+        A palindromic number reads the same both ways.
+        The largest palindrome made from the product of two 2-digit numbers is 9009 = 91 × 99.
+        \nFind the largest palindrome made from the product of two n-digit numbers.
+        \n\n*Note: The largest n-digit allowed is 7.
+    </string>
+    <string name="sum_square_difference_summary">
+        Sum Square Difference
+    </string>
+    <string name="sum_square_difference_description">
+        The sum of the squares of the first ten natural numbers is,
+        1^2 + 2^2 + … + 10^2 = 385
+        \nThe square of the sum of the first ten natural numbers is,
+        (1 + 2 + … + 10)^2 = 55^2 = 3025
+        \nHence the difference between the sum of the squares of the first ten natural numbers and
+        the square of the sum is 3025 − 385 = 2640.
+        \n\nEnter in a list of numbers separated by spaces.
+    </string>
+</resources>
